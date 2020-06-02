@@ -1,19 +1,19 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+title: Sdok
+description: "Sdok"
 baseurl:
-url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+url: "https://sdqcdongari.github.io/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: loremipsum
-profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
+username: sdqcd
+user_title: sdqcd
+email: 
+twitter_username: 
+github_username:  
+gplus_username:  
+linkedin_public_url:  # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
+disqus_username: 
+profile_picture: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fsungdeokcouncil%2Fposts&psig=AOvVaw0sA4yBPU9OX3DZR24FZOEu&ust=1591205093165000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiliYbT4-kCFQAAAAAdAAAAABAD
 
 # Build settings
 markdown: kramdown
@@ -28,7 +28,7 @@ compress_html:
   profile: false
 
 # Links to include in menu navigation
-links:
+#links:
   section_1:
     - title: home
       url: /
@@ -58,7 +58,7 @@ links:
       key_trigger: s #WARNING: search only works with "s"
 
 # projects in header index
-projects:
+#projects:
   - name: fluany
     url: https://github.com/fluany/fluany
   - name: vim-frontend
