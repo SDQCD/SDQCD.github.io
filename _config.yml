@@ -2,18 +2,18 @@
 title: Sdok
 description: "Sdok"
 baseurl:
-url: "https://sdqcdongari.github.io/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
 username: sdqcd
 user_title: sdqcd
-email: 
-twitter_username: 
-github_username:  
-gplus_username:  
+email: 1
+twitter_username: 1
+github_username:  1
+gplus_username:  1
 linkedin_public_url:  # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: 
-profile_picture: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fsungdeokcouncil%2Fposts&psig=AOvVaw0sA4yBPU9OX3DZR24FZOEu&ust=1591205093165000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiliYbT4-kCFQAAAAAdAAAAABAD
+disqus_username: 1
+profile_picture: http://blogfiles.naver.net/MjAyMDA1MDJfMTkw/MDAxNTg4NDA1NTUyNjAx.HdO5tvaN_VGKKDq93DL3LDl2gsQbYSGpt6foCM6__EIg.eT7w6Nzzaw4JZVz-4Kw6EWz9Y6EsEn09xFKY8oRYEvYg.JPEG.dd0u0bb__/IMG_2674.JPG
 
 # Build settings
 markdown: kramdown
