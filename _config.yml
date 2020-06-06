@@ -5,14 +5,14 @@ baseurl:
 url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
-username: sdqcd
-user_title: sdqcd
-email: 1
-twitter_username: 1
-github_username:  1
-gplus_username:  1
+username: QCD
+user_title: QCD1
+email: hyung5371@naver.com
+twitter_username: X
+github_username:  X
+gplus_username:  X
 linkedin_public_url:  # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: 1
+disqus_username: X
 profile_picture: http://blogfiles.naver.net/MjAyMDA1MDJfMTkw/MDAxNTg4NDA1NTUyNjAx.HdO5tvaN_VGKKDq93DL3LDl2gsQbYSGpt6foCM6__EIg.eT7w6Nzzaw4JZVz-4Kw6EWz9Y6EsEn09xFKY8oRYEvYg.JPEG.dd0u0bb__/IMG_2674.JPG
 
 # Build settings
@@ -31,7 +31,7 @@ compress_html:
 links:
   section_1:
     - title: home
-      url: /
+      url: /home
       key_trigger: 1
     - title: my posts
       url: /posts
@@ -46,14 +46,14 @@ links:
       url: /about
       key_trigger: 5
   section_2:
-    - title: github
+    - title: TITLE1
       url: 
       new_tab: true
       key_trigger: g
-    - title: twitter
+    - title: TITLE2
       url: 
       key_trigger: t
-    - title: search
+    - title: TITLE3
       url: ""
       key_trigger: s #WARNING: search only works with "s"
 
