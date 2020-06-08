@@ -2,7 +2,7 @@
 title: Sdok
 description: "Sdok"
 baseurl:
-url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.o'
 
 # User settings
 username: QCD
