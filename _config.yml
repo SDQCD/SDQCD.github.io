@@ -1,18 +1,15 @@
 # Site settings
-title: Sdok
-description: "Sdok"
+title: Sdok - QCD
+description: "QCD"
 baseurl:
-url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.o'
+url: "https://sdqcd.github.io/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.o'
 
 # User settings
 username: QCD
 user_title: QCD1
 email: hyung5371@naver.com
-twitter_username: X
-github_username:  X
-gplus_username:  X
+github_username: https://github.com/SDQCD/SDQCD.github.io/
 linkedin_public_url:  # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: X
 profile_picture: http://blogfiles.naver.net/MjAyMDA1MDJfMTkw/MDAxNTg4NDA1NTUyNjAx.HdO5tvaN_VGKKDq93DL3LDl2gsQbYSGpt6foCM6__EIg.eT7w6Nzzaw4JZVz-4Kw6EWz9Y6EsEn09xFKY8oRYEvYg.JPEG.dd0u0bb__/IMG_2674.JPG
 
 # Build settings
@@ -59,7 +56,7 @@ links:
 
 # projects in header index
 projects:
-  - name: 1
+  - name: 
     url: 
   - name: 2
     url: 
